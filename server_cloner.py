@@ -44,7 +44,7 @@ async def on_ready():
 @client.command()
 async def cloneserver(ctx): 
     await ctx.message.delete()
-    wow = await client.create_guild(f'backup-{ctx.guild.name}')
+    wow = await client.create_guild(f'clone-{ctx.guild.name}')
     await asyncio.sleep(4)
     for g in client.guilds:
         if f'backup-{ctx.guild.name}' in g.name:
