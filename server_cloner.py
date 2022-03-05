@@ -47,7 +47,7 @@ async def cloneserver(ctx):
     wow = await client.create_guild(f'clone-{ctx.guild.name}')
     await asyncio.sleep(4)
     for g in client.guilds:
-        if f'backup-{ctx.guild.name}' in g.name:
+        if f'clone-{ctx.guild.name}' in g.name:
             for c in g.channels:
                 await c.delete()
             for cate in ctx.guild.categories:
