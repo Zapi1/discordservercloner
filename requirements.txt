@@ -1,0 +1,14 @@
+requests
+discord
+asyncio
+colorama
+urllib3
+command
+fore
+datetime
+init
+clear
+async
+style
+ctx
+logging
