@@ -1,7 +1,7 @@
 # Discord Server Cloner
 This is a simple discord server cloner made in python
 
-To run the file you'll need
+To run the file correctly you'll need
 
 * Python last version https://www.python.org/
 * Python added to path
