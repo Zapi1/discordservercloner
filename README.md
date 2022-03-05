@@ -5,6 +5,6 @@ To run the file you'll need
 * Python added to path
 * The requirements that you find in requirements.txt (you can run setup.bat to install all more faster)
 
-That's all!
-Enjoy
+That's all, enjoy!
+
 Contact me on discord Zapiツ#0001 https://discord.gg/MngZGkkuSv
